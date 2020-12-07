@@ -20,7 +20,7 @@
                     <button component="category/post" id="new_topic" class="btn btn-primary">Create a New Topic</button>
                     <button id="discussions-btn" class="btn btn-default" type="button">View {{topic_count}} Discussions</button>
                 </div>
-				<h2 class="lead">               
+				<h2 class="lead">
 				This page is dedicated to discussions around <b>{{name}}</b>. You can watch trailers, read frequently asked questions and immerse yourself in trivia related to {{name}}..
 				</h2>
             </div>
